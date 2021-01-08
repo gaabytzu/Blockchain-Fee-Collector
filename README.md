@@ -7,10 +7,11 @@ The project can be found also at: www.blockchain-fee-collector.ga
 
 Installation
 ------------------------------------------------
+Password for the archive is: 12345
 Just download the archive,extract it and run the Blockchain Fee Collector app
 
 
-Updates 27 December 2020
+Updates 8 January 2021
 ------------------------------------------------
 All connections are made more securily
 Bitcoins can be withdraw direct into user private bitcoin wallet
